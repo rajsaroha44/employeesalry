@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySilpR", "PaySilpR\PaySilpR.csproj", "{8674BAC4-BB06-4B44-A7CD-EAAD4E15B4C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySlipTest", "PaySlipTest\PaySlipTest.csproj", "{F389891A-2D79-4409-8390-D7D2D8E72FB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8674BAC4-BB06-4B44-A7CD-EAAD4E15B4C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8674BAC4-BB06-4B44-A7CD-EAAD4E15B4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8674BAC4-BB06-4B44-A7CD-EAAD4E15B4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8674BAC4-BB06-4B44-A7CD-EAAD4E15B4C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F389891A-2D79-4409-8390-D7D2D8E72FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F389891A-2D79-4409-8390-D7D2D8E72FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F389891A-2D79-4409-8390-D7D2D8E72FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F389891A-2D79-4409-8390-D7D2D8E72FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5524666-F37C-45AB-87D6-8448EA5A3B8B}
+	EndGlobalSection
+EndGlobal
